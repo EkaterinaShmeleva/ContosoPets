@@ -1,0 +1,15 @@
+C:\Users\Administrator\Documents\GitHub\ContosoPets\contosoPets\bin\Debug\net9.0\contosoPets.exe
+C:\Users\Administrator\Documents\GitHub\ContosoPets\contosoPets\bin\Debug\net9.0\contosoPets.deps.json
+C:\Users\Administrator\Documents\GitHub\ContosoPets\contosoPets\bin\Debug\net9.0\contosoPets.runtimeconfig.json
+C:\Users\Administrator\Documents\GitHub\ContosoPets\contosoPets\bin\Debug\net9.0\contosoPets.dll
+C:\Users\Administrator\Documents\GitHub\ContosoPets\contosoPets\bin\Debug\net9.0\contosoPets.pdb
+C:\Users\Administrator\Documents\GitHub\ContosoPets\contosoPets\obj\Debug\net9.0\contosoPets.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Documents\GitHub\ContosoPets\contosoPets\obj\Debug\net9.0\contosoPets.AssemblyInfoInputs.cache
+C:\Users\Administrator\Documents\GitHub\ContosoPets\contosoPets\obj\Debug\net9.0\contosoPets.AssemblyInfo.cs
+C:\Users\Administrator\Documents\GitHub\ContosoPets\contosoPets\obj\Debug\net9.0\contosoPets.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\GitHub\ContosoPets\contosoPets\obj\Debug\net9.0\contosoPets.sourcelink.json
+C:\Users\Administrator\Documents\GitHub\ContosoPets\contosoPets\obj\Debug\net9.0\contosoPets.dll
+C:\Users\Administrator\Documents\GitHub\ContosoPets\contosoPets\obj\Debug\net9.0\refint\contosoPets.dll
+C:\Users\Administrator\Documents\GitHub\ContosoPets\contosoPets\obj\Debug\net9.0\contosoPets.pdb
+C:\Users\Administrator\Documents\GitHub\ContosoPets\contosoPets\obj\Debug\net9.0\contosoPets.genruntimeconfig.cache
+C:\Users\Administrator\Documents\GitHub\ContosoPets\contosoPets\obj\Debug\net9.0\ref\contosoPets.dll
